@@ -19,11 +19,13 @@ this may ban or desactivate your Discord account you have been warned !
 How it works ?
 -------------------
 
-the bot act as client for our discord server, when ever the programme runs in a machine the bot creates a new private channel with a webhook in the server and check for the id of the channel if it matches the current channel you are sending message to
+the bot act as client for our discord server, when ever the programme runs on a host the bot creates a new private channel with a webhook in the server and check for the id of the channel if it matches the current channel you are sending message to it sends back data
 
 this allows to have a session for each different client 
 
 if programme is shutdown connexion is lost and you need to delete channel 
+
+next time it connects new session channel is created
 
 it needs 3 things :
 
