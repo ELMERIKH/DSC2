@@ -5,11 +5,9 @@ Greetings
 
 DSC2 is a trojan that uses Discord as a c2 server 
 
-![Alt text](<2024-01-30 05_16_51-#private-channel _ LMERIKH - Discord.png>)
-
+![Alt text](<2024-01-31 12_55_40-DSC2 @ github.com_Elmerikh.png>)
 
 ![Alt text](<2024-01-30 05_16_08-#private-channel _ LMERIKH - Discord.png>)
-
 
 Warning
 ------------------
@@ -61,5 +59,5 @@ any cmd commande
 DISCLAIMER :
 -------------------------------
 
-ME The author takes NO responsibility and/or liability for how you choose to use any of the tools/source code/any files provided. ME The author and anyone affiliated with will not be liable for any losses and/or damages in connection with use of Beryl. By using Beryl or any files included, you understand that you are AGREEING TO USE AT YOUR OWN RISK. Once again Beryl is for EDUCATION and/or RESEARCH purposes ONLY.
+ME The author takes NO responsibility and/or liability for how you choose to use any of the tools/source code/any files provided. ME The author and anyone affiliated with will not be liable for any losses and/or damages in connection with use of DSC2. By using DSC2 or any files included, you understand that you are AGREEING TO USE AT YOUR OWN RISK. Once again DSC2 is for EDUCATION and/or RESEARCH purposes ONLY.
 
