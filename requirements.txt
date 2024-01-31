@@ -1,0 +1,12 @@
+discord
+Pillow
+wmi
+psutil
+pycryptodome
+ctypes
+zipfile
+pywin32
+pycryptodome
+sqlite3
+colorama
+pyinstaller
