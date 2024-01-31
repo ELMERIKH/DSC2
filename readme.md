@@ -4,15 +4,16 @@ Greetings
 ![Alt text](<2024-01-31 12_55_40-DSC2 @ github.com_Elmerikh.png>)
 
 DSC2 is a trojan that uses Discord as a c2 server 
+-----------------------------
 
 ![Alt text](SSS.png)
 
 ![Alt text](SS.png)
 
-Warning
+Warning !!!!!!
 ------------------
 
-this may ban or desactivate your Discord account you have been warned
+this may ban or desactivate your Discord account you have been warned !
 ---------------------------------
 
 How it works ?
