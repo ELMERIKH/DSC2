@@ -16,6 +16,7 @@ Warning !!!!!!
 
 this may ban or desactivate your Discord account you have been warned !
 ---------------------------------
+don t use your main acc
 
 How it works ?
 -------------------
